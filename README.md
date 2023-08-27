@@ -2,7 +2,7 @@
 
 Ultimate React course project
 
-Quiz App 
+Quiz App. List of questions about react
 
 Use useReducer.
 
